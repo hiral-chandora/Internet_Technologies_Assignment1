@@ -1,4 +1,4 @@
-# Internet_Technologies_Assignment1
+Internet_Technologies_Assignment1
 
 Purpose of the assignment:
 This individual assignment familiarise with the techniques and skills involved in designing and creating static webpages utilising validated HTML and CSS created with a standard text editor. These Web pages are deployed on a Unix / Apache server. Moreover, it will provide with an appreciation of the separation of structure and presentation which has been discussed in the lecture series.
